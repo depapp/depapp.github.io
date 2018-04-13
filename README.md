@@ -8,6 +8,9 @@ Tested with:
     <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
 </a>
 
+
+
+
 Credit:
 =======================================================================
 Free Bootstrap Resume/CV Template for developers
