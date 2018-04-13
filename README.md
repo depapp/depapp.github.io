@@ -1,6 +1,6 @@
 Built with:
 =======================================================================
-[![Build Status](https://travis-ci.org/depapp/depapp.github.io.svg?branch=master)](https://travis-ci.org/depapp/depapp.github.io)  [![Build status](https://ci.appveyor.com/api/projects/status/i59mq12n2c0c8qhq?svg=true)](https://ci.appveyor.com/project/depapp/depapp-github-io)
+[![Build Status](https://travis-ci.org/depapp/depapp.github.io.svg?branch=master)](https://travis-ci.org/depapp/depapp.github.io)  [![Build status](https://ci.appveyor.com/api/projects/status/i59mq12n2c0c8qhq?svg=true)](https://ci.appveyor.com/project/depapp/depapp-github-io)   [![CircleCI](https://circleci.com/gh/depapp/depapp.github.io.svg?style=svg)](https://circleci.com/gh/depapp/depapp.github.io)
 
 Tested with:
 =======================================================================
