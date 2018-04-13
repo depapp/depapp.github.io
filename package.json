@@ -1,5 +1,5 @@
 {
-  "name": "depapp's story",
+  "name": "basic-testcafe-example",
   "version": "1.0.0",
   "description": "depapp's story e2e testing",
   "main": "server.js",
