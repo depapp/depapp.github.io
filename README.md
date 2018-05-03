@@ -1,6 +1,6 @@
 Built with:
 =======================================================================
-[![Build Status](https://travis-ci.org/depapp/depapp.github.io.svg?branch=master)](https://travis-ci.org/depapp/depapp.github.io)  [![Build status](https://ci.appveyor.com/api/projects/status/i59mq12n2c0c8qhq?svg=true)](https://ci.appveyor.com/project/depapp/depapp-github-io)   [![CircleCI](https://circleci.com/gh/depapp/depapp.github.io.svg?style=svg)](https://circleci.com/gh/depapp/depapp.github.io) [![Dependency Status](https://beta.gemnasium.com/badges/github.com/depapp/depapp.github.io.svg)](https://beta.gemnasium.com/projects/github.com/depapp/depapp.github.io) 
+[![Build Status](https://travis-ci.org/depapp/depapp.github.io.svg?branch=master)](https://travis-ci.org/depapp/depapp.github.io)  [![Build status](https://ci.appveyor.com/api/projects/status/i59mq12n2c0c8qhq?svg=true)](https://ci.appveyor.com/project/depapp/depapp-github-io)   [![CircleCI](https://circleci.com/gh/depapp/depapp.github.io.svg?style=svg)](https://circleci.com/gh/depapp/depapp.github.io) [![Dependency Status](https://beta.gemnasium.com/badges/github.com/depapp/depapp.github.io.svg)](https://beta.gemnasium.com/projects/github.com/depapp/depapp.github.io) [![Maintainability](https://api.codeclimate.com/v1/badges/b0acbdeacf6ce82ca121/maintainability)](https://codeclimate.com/github/depapp/depapp.github.io/maintainability)
 
 Tested with:
 =======================================================================
