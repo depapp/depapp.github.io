@@ -1,7 +1,7 @@
 Built with:
 =======================================================================
 
-[![Build Status](https://travis-ci.org/depapp/depapp.github.io.svg?branch=master)](https://travis-ci.org/depapp/depapp.github.io)  [![Build status](https://ci.appveyor.com/api/projects/status/i59mq12n2c0c8qhq?svg=true)](https://ci.appveyor.com/project/depapp/depapp-github-io)   [![CircleCI](https://circleci.com/gh/depapp/depapp.github.io.svg?style=svg)](https://circleci.com/gh/depapp/depapp.github.io) [![Maintainability](https://api.codeclimate.com/v1/badges/b0acbdeacf6ce82ca121/maintainability)](https://codeclimate.com/github/depapp/depapp.github.io/maintainability) [![Greenkeeper badge](https://badges.greenkeeper.io/depapp/depapp.github.io.svg)](https://greenkeeper.io/) [![Coverage Status](https://coveralls.io/repos/github/depapp/depapp.github.io/badge.svg?branch=master)](https://coveralls.io/github/depapp/depapp.github.io?branch=master)
+[![Build Status](https://travis-ci.org/depapp/depapp.github.io.svg?branch=master)](https://travis-ci.org/depapp/depapp.github.io)  [![Build status](https://ci.appveyor.com/api/projects/status/i59mq12n2c0c8qhq?svg=true)](https://ci.appveyor.com/project/depapp/depapp-github-io)   [![CircleCI](https://circleci.com/gh/depapp/depapp.github.io.svg?style=svg)](https://circleci.com/gh/depapp/depapp.github.io) [![Maintainability](https://api.codeclimate.com/v1/badges/b0acbdeacf6ce82ca121/maintainability)](https://codeclimate.com/github/depapp/depapp.github.io/maintainability) [![Greenkeeper badge](https://badges.greenkeeper.io/depapp/depapp.github.io.svg)](https://greenkeeper.io/) 
 
 Tested with:
 =======================================================================
