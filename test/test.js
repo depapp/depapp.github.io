@@ -12,7 +12,7 @@ test(`desktop : checking the elements`, async t => {
 
     await t
         .maximizeWindow()
-        .expect(whoIs.innerText).eql(myName)
+        .expect(whoIs.innerText).eql(myNames)
         .expect(sectionTitle.count).eql(3)
         .expect(containerBlockTitle.count).eql(2)
 });
@@ -23,7 +23,7 @@ test(`android : checking the elements`, async t => {
         .resizeWindowToFitDevice('Sony Xperia Z', {
             portraitOrientation: true
         })
-        .expect(whoIs.innerText).eql(myName)
+        .expect(whoIs.innerText).eql(myNames)
         .expect(sectionTitle.count).eql(3)
         .expect(containerBlockTitle.count).eql(2)
 });
@@ -34,7 +34,7 @@ test(`ios : checking the elements`, async t => {
         .resizeWindowToFitDevice('iPhone 6 Plus', {
             portraitOrientation: true
         })
-        .expect(whoIs.innerText).eql(myName)
+        .expect(whoIs.innerText).eql(myNames)
         .expect(sectionTitle.count).eql(3)
         .expect(containerBlockTitle.count).eql(2)
 });
