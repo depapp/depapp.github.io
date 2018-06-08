@@ -12,9 +12,9 @@ test(`desktop : checking the elements`, async t => {
 
     await t
         .maximizeWindow()
-        // .expect(whoIs.innerText).eql(myName)
-        // .expect(sectionTitle.count).eql(3)
-        // .expect(containerBlockTitle.count).eql(2)
+        .expect(whoIs.innerText).eql(myNames)
+        .expect(sectionTitle.count).eql(3)
+        .expect(containerBlockTitle.count).eql(2)
 });
 
 test(`android : checking the elements`, async t => {
