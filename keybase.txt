@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/depapp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://depapp.github.io
+  * I am depapp (https://keybase.io/depapp) on keybase.
+  * I have a public key ASBeyYwUi_gDV57JHCQcBwMDr5LQ_WblCB89Cgvy2awWLQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205ec98c148bf803579ec91c241c070303af92d0fd66e5081f3d0a0bf2d9ac162d0a",
+      "host": "keybase.io",
+      "kid": "01205ec98c148bf803579ec91c241c070303af92d0fd66e5081f3d0a0bf2d9ac162d0a",
+      "uid": "60e08b4cb9027c02f8a4f16b00a9e319",
+      "username": "depapp"
+    },
+    "merkle_root": {
+      "ctime": 1551154755,
+      "hash": "098387c4ddd6f75cdd0fe11407daf80c6bfc0ec60a814b903ef97c95d8ca0581297b9dc96baf351317d5eddc5a7b704c6e83d71bff81957835fb313323c96930",
+      "hash_meta": "1def582c04978521189443523d1354733110bd89d71d05be27dddf445e73a92b",
+      "seqno": 4830413
+    },
+    "service": {
+      "entropy": "cMniz8tvz+XvAfAgBQIUC6UK",
+      "hostname": "depapp.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551154772,
+  "expire_in": 504576000,
+  "prev": "1233f296f3aaa8c6e326f694029058a0a55389fd585ee9f9f479ec348625de90",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXsmMFIv4A1eeyRwkHAcDA6+S0P1m5QgfPQoL8tmsFi0Kp3BheWxvYWTESpcCB8QgEjPylvOqqMbjJvaUApBYoKVTif1YXun59HnsNIYl3pDEIDICmwJERAihmBouE5lu1As1VKxlkMSCrflhTQ2Rai6xAgHCo3NpZ8RAO1h2Det2nBdIbrqFWb2G3+QJhcSGOAHrFp7piQLffWuY2khWmaucFxTa3WFJ/1rSzuC0WLwKCxXopniTBxAdCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICJWbmtwKbCacS7lNcNrbjxoG8y4AODxFw2tLzNk5novo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/depapp
+
+==================================================================
