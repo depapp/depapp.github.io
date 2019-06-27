@@ -1,0 +1,4 @@
+node_modules
+cypress/fixtures/example.json
+cypress/integration/examples
+cypress/videos

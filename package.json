@@ -21,6 +21,7 @@
     "serve-static": "^1.11.1"
   },
   "devDependencies": {
+    "cypress": "^3.3.1",
     "testcafe": "*"
   }
 }
