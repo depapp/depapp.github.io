@@ -1,6 +1,11 @@
 language: node_js
 node_js: "stable"
 
+cache:
+  directories:
+    - ~/.npm
+    - ~/.cache
+
 before_install:
   - stty cols 80
 
@@ -19,3 +24,8 @@ before_script:
   - "sh -e /etc/init.d/xvfb start"
   - sleep 3
   - fluxbox >/dev/null 2>&1 &
+  - npm install cypress
+  - npm install chance
+
+script:
+  - cypress run
