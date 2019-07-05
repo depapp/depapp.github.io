@@ -1,27 +1,8 @@
 {
-  "name": "basic-testcafe-example",
-  "version": "1.0.0",
-  "description": "depapp's story e2e testing",
-  "main": "server.js",
-  "scripts": {
-    "test": "testcafe chrome test\test.js --app \"node server.js\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DevExpress/testcafe.git"
-  },
-  "author": "Developer Express Inc. (https://devexpress.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DevExpress/testcafe/issues"
-  },
-  "homepage": "https://github.com/DevExpress/testcafe#readme",
-  "dependencies": {
-    "connect": "^3.4.1",
-    "serve-static": "^1.11.1"
-  },
+  "name": "depapp.github.io",
+  "version": "1.1.0",
+  "description": "depapp's story",
   "devDependencies": {
-    "cypress": "^3.3.1",
-    "testcafe": "*"
+    "cypress": "^3.3.1"
   }
 }

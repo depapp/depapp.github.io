@@ -1,15 +1,15 @@
-Built with:
+🛠 Built with:
 =======================================================================
 
 [![Build Status](https://travis-ci.org/depapp/depapp.github.io.svg?branch=master)](https://travis-ci.org/depapp/depapp.github.io)  [![Build status](https://ci.appveyor.com/api/projects/status/i59mq12n2c0c8qhq?svg=true)](https://ci.appveyor.com/project/depapp/depapp-github-io)   [![CircleCI](https://circleci.com/gh/depapp/depapp.github.io.svg?style=svg)](https://circleci.com/gh/depapp/depapp.github.io) [![Maintainability](https://api.codeclimate.com/v1/badges/b0acbdeacf6ce82ca121/maintainability)](https://codeclimate.com/github/depapp/depapp.github.io/maintainability) [![Greenkeeper badge](https://badges.greenkeeper.io/depapp/depapp.github.io.svg)](https://greenkeeper.io/) 
 
-Tested with:
+♻️ Tested with:
 =======================================================================
 <a href="https://github.com/DevExpress/testcafe">
     <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
 </a>
 
-Credit:
+📑 Credit:
 =======================================================================
 Free Bootstrap Resume/CV Template for developers
 
