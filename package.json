@@ -1,8 +1,14 @@
 {
   "name": "depapp.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/depapp/depapp.github.io.git"
+  },
   "version": "1.1.0",
+  "license": "UNLICENSED",
   "description": "depapp's story",
   "devDependencies": {
-    "cypress": "^3.3.1"
+    "cypress": "^3.4.0",
+    "lodash": ">=4.17.14"
   }
 }
